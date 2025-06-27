@@ -1,5 +1,6 @@
 # AdvTP
-Code and model for "Pattern Analysis and Applications"
+Code and model for "Adversarial Translucent Patch: A Robust Physical Attack Technique
+Against Object Detectors"
 
 ## Introduction
 
